@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Notion for macOS extension with ultimate Extension for Notion for macOS - database templates and calendar integration. Featuring database templates and calendar
 
 
 
